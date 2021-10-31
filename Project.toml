@@ -1,0 +1,13 @@
+name = "Network_ADER"
+uuid = "816b8759-2bf8-46df-833a-4772d27b8b07"
+authors = ["Jochen Kall <jochen.kall.oss@googlemail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
